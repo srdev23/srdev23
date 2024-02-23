@@ -23,19 +23,19 @@
 ### Solidity
 
 <a href="https://github.com/innotech0926/Solidity_contracts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Solidity_contracts&theme=vue-dark&description_lines_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Solidity_contracts&theme=vue-dark&description_lines_count=5" />
 </a>
 <a href="https://github.com/innotech0926/Contract_x509">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Contract_x509&theme=vue-dark&description_lines_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Contract_x509&theme=vue-dark&description_lines_count=5" />
 </a>
 
 ### Next
 
 <a href="https://github.com/innotech0926/Next_dappTemplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Next_dappTemplate&theme=vue-dark&description_lines_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Next_dappTemplate&theme=vue-dark&description_lines_count=5" />
 </a>
 <a href="https://github.com/innotech0926/CryptoCocks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=CryptoCocks&theme=vue-dark&description_lines_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=CryptoCocks&theme=vue-dark&description_lines_count=5" />
 </a>
 <!--
 **innotech0926/innotech0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
