@@ -29,7 +29,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="70" height="70" />  Repositories
 
-### 🌟 Go
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Go
 
 <a href="https://github.com/innotech0926/Go_gonesis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Go_gonesis&theme=vue-dark&description_lines_count=5" />
@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Go_Micro&theme=vue-dark&description_lines_count=4" />
 </a>
 
-### 🌟 Rust
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Rust
 
 <a href="https://github.com/innotech0926/AWS_auth">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=AWS_auth&theme=vue-dark&description_lines_count=4" />
@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Rust_bors&theme=vue-dark&description_lines_count=5" />
 </a>
 
-### 🌟 Solidity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Solidity
 
 <a href="https://github.com/innotech0926/Solidity_contracts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Solidity_contracts&theme=vue-dark&description_lines_count=5" />
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Contract_x509&theme=vue-dark&description_lines_count=5" />
 </a>
 
-### 🌟 Next
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Next
 
 <a href="https://github.com/innotech0926/Next_dappTemplate">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Next_dappTemplate&theme=vue-dark&description_lines_count=5" />
