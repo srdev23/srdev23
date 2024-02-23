@@ -13,7 +13,7 @@
 ### 🌟 Go
 
 <a href="https://github.com/innotech0926/Go_gonesis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Go_gonesis&theme=vue-dark&description_lines_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Go_gonesis&theme=vue-dark&description_lines_count=5" />
 </a>
 <a href="https://github.com/innotech0926/Go_Micro">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Go_Micro&theme=vue-dark&description_lines_count=4" />
