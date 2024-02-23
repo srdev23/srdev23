@@ -3,8 +3,9 @@
 
 <br>
 
-## About the project
-![Jack1](https://github.com/innotech0926/innotech0926/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b)(https://heroswap.com/)
+## What is HeroSwap?
+### HeroSwap allows virtually instant and anonymous swapping of any supported currency with no signups. This enables developers to onboard new users and liquidity to their cross-chain apps. It also allows everyday users to swap cross-chain to experience different blockchain ecosystems. Partners who embed HeroSwap earn 50% of all swapping fees.
+
 <a href="https://heroswap.com/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b" width="1200px" />
 
 
