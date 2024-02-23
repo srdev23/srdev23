@@ -2,6 +2,7 @@
 # <div align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Blockchain Developer &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></div>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="60" height="40" /> &nbsp; My Portfolio
+<br>
 <a href="https://jackmoes.vercel.app/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/95d5213e-245b-4a75-ae0f-c80c4f7549c9" width="1200px"/>
 
 
