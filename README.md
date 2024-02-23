@@ -10,7 +10,7 @@
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="60" height="40" /> &nbsp; My Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Printer.webp" alt="Printer" width="50" height="50" /> My Projects
 <br>
 
 ### 🌟 What is HeroSwap?
