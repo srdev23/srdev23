@@ -23,7 +23,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Exclamation%20Question%20Mark.webp" alt="Exclamation Question Mark" width="50" height="50" /> What is Solport?
 ### In addition to user Auctioning, Rarity Filtering, and Discord/Telegram alerts for marketplace activity, Solport is an NFT marketplace built on the Solana blockchain that provides various features. Solport does not charge a listing fee or a refunding fee at present.
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="50" height="50" /> NFTMarketPlace 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Currency%20Exchange.webp" alt="Currency Exchange" width="50" height="50" /> Chains : solana
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Currency%20Exchange.webp" alt="Currency Exchange" width="50" height="50" /> Chains : Solana
 
 <a href="https://solport.io/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/9c399017-ef50-431a-9589-950131289854" width="1200px" />
 
