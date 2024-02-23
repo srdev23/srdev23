@@ -24,6 +24,9 @@
 <a href="https://github.com/innotech0926/AWS_auth">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=AWS_auth&theme=vue-dark&description_lines_count=4" />
 </a>
+<a href="https://github.com/innotech0926/Rust_bors">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Rust_bors&theme=vue-dark&description_lines_count=4" />
+</a>
 
 ### 🌟 Solidity
 
