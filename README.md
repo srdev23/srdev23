@@ -3,6 +3,9 @@
 
 <br>
 
+# My Projects
+<br>
+
 ## What is HeroSwap?
 ### HeroSwap allows virtually instant and anonymous swapping of any supported currency with no signups. This enables developers to onboard new users and liquidity to their cross-chain apps. It also allows everyday users to swap cross-chain to experience different blockchain ecosystems. Partners who embed HeroSwap earn 50% of all swapping fees.
 ### ⚡ Decentralized Exchanges(DEXs), Crypto Exchanges
