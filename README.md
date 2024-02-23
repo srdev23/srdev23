@@ -10,50 +10,35 @@
 ## Repositories
 ### Go
 
-<a href="https://github.com/venuswhispers/Go_radiance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Go_radiance&theme=tokyonight&description_lines_count=4" />
+<a href="https://github.com/venuswhispers/Go_Micro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Go_Micro&theme=tokyonight&description_lines_count=4" />
 </a>
 
 ### Rust
 
-<a href="https://github.com/venuswhispers/Rust-awesome-frameworks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-awesome-frameworks&theme=tokyonight&description_lines_count=4" />
+<a href="https://github.com/venuswhispers/Rust-auth">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-auth&theme=tokyonight&description_lines_count=4" />
 </a>
-<a href="https://github.com/venuswhispers/Rust-clockchain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Rust-clockchain&theme=tokyonight&description_lines_count=4" />
+<a href="https://github.com/venuswhispers/AWS_auth">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=AWS_auth&theme=tokyonight&description_lines_count=4" />
 </a>
 
 ### Solidity
 
-<a href="https://github.com/venuswhispers/WPF_gas_opt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=WPF_gas_opt&theme=tokyonight&description_lines_count=4" />
+<a href="https://github.com/venuswhispers/Solidity_contracts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Solidity_contracts&theme=tokyonight&description_lines_count=4" />
 </a>
-<a href="https://github.com/venuswhispers/My_EIP223">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=My_EIP223&theme=tokyonight&description_lines_count=3" />
-</a>
-<a href="https://github.com/venuswhispers/Crypto_vouchers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Crypto_vouchers&theme=tokyonight&description_lines_count=4" />
+<a href="https://github.com/venuswhispers/Contract_x509">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Contract_x509&theme=tokyonight&description_lines_count=3" />
 </a>
 
-### DApps
+### Next
 
-<a href="https://github.com/venuswhispers/NFT_Swap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=NFT_Swap&theme=tokyonight&description_lines_count=4" />
+<a href="https://github.com/venuswhispers/Next_dappTemplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Next_dappTemplate&theme=tokyonight&description_lines_count=4" />
 </a>
-<a href="https://github.com/venuswhispers/Web3_template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Web3_template&theme=tokyonight&description_lines_count=4" />
-</a>
-<a href="https://github.com/venuswhispers/bidify_mint">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=bidify_mint&theme=tokyonight&description_lines_count=3" />
-</a>
-<a href="https://github.com/venuswhispers/Online-shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Online-shop&theme=tokyonight&description_lines_count=4" />
-</a>
-<a href="https://github.com/venuswhispers/NFT-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=NFT-marketplace&theme=tokyonight&description_lines_count=4" />
-</a>
-<a href="https://github.com/venuswhispers/Solana_dApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=Solana_dApp&theme=tokyonight&description_lines_count=4" />
+<a href="https://github.com/venuswhispers/CryptoCocks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=venuswhispers&repo=CryptoCocks&theme=tokyonight&description_lines_count=4" />
 </a>
 <!--
 **innotech0926/innotech0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
