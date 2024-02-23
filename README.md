@@ -5,7 +5,7 @@
 
 ## About the project
 ![Jack1](https://github.com/innotech0926/innotech0926/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b)(https://heroswap.com/)
-<img src="https://github.com/innotech0926/innotech0926/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b" width="1000px" />
+<img src="https://github.com/innotech0926/innotech0926/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b" width="1200px" />
 
 
 
