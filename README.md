@@ -16,8 +16,8 @@
 
 ### Rust
 
-<a href="https://github.com/innotech0926/Rust-auth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Rust-auth&theme=tokyonight&description_lines_count=4" />
+<a href="https://github.com/innotech0926/Rust_auth">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Rust_auth&theme=tokyonight&description_lines_count=4" />
 </a>
 <a href="https://github.com/innotech0926/AWS_auth">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=AWS_auth&theme=tokyonight&description_lines_count=4" />
