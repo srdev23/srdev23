@@ -68,7 +68,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Cross-chain
 
 <a href="https://github.com/innotech0926/Pigeon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Pigeon&theme=vue-dark&description_lines_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Pigeon&theme=vue-dark&description_lines_count=6" />
 </a>
 
 
