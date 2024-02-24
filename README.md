@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=BSC_layer&theme=vue-dark&description_lines_count=6" />
 </a>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> dAPPs
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> dApps
 
 <a href="https://github.com/innotech0926/Next_dappTemplate">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Next_dappTemplate&theme=vue-dark&description_lines_count=5" />
