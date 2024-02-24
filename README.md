@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Ollo_station&theme=vue-dark&description_lines_count=7" />
 </a>
 <a href="https://github.com/innotech0926/Tusima_bridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Tusima_bridge&theme=vue-dark&description_lines_count=7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Tusima_bridge&theme=vue-dark&description_lines_count=4" />
 </a>
 <a href="https://github.com/innotech0926/Pigeon">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Pigeon&theme=vue-dark&description_lines_count=6" />
