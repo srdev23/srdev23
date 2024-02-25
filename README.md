@@ -10,7 +10,7 @@
 
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Printer.webp" alt="Printer" width="70" height="70" /> My Projects
+#  🎯 My Projects
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Exclamation%20Question%20Mark.webp" alt="Exclamation Question Mark" width="50" height="50" /> What is HeroSwap?
