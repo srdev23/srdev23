@@ -27,7 +27,7 @@
 
 <a href="https://solport.io/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/9c399017-ef50-431a-9589-950131289854" width="1200px" />
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="70" height="70" />  Repositories
+# 📁  Repositories
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Cross-chain
 
