@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Hand%20With%20Fingers%20Splayed.webp" alt="Hand With Fingers Splayed" width="50" height="50" />
+# Hi there 👋
 <br>
 
 # <div align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Blockchain Developer &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></div>
