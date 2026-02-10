@@ -1,102 +1,97 @@
-# Hi there 👋
-<br>
-<div align="center"> &nbsp; # Software Engineer &nbsp; </div>
-<br>
+<div align="center">
 
+# 👋 Hi, I'm a Full Stack AI Engineer
+
+**Building intelligent applications at the intersection of AI and Web3**
 <!-- 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Health%20Worker.webp" alt="Man Health Worker" width="70" height="70" /> My Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D9488?style=flat)](https://jackmoes.vercel.app/) -->
+
+</div>
+
+<!-- --- -->
+
+## 🧠 About Me
+
+I build production-grade AI systems and full stack applications — from LLM integrations and RAG pipelines to scalable web apps and smart contracts. Passionate about turning AI into real products that ship.
+
+- 🔭 **Current focus:** LLM applications, agentic workflows, and cross-chain DeFi
+- 🤖 **AI/ML:** LangChain, RAG, embeddings, fine-tuning, prompt engineering
+- ⚡ **Full Stack:** Next.js, TypeScript, Python, React, Node.js
+- ⛓️ **Web3:** Solana, Ethereum, smart contracts, DEXs, NFTs
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI & Machine Learning**
 <br>
-<a href="https://jackmoes.vercel.app/"><img src="https://github.com/srdev23/srdev23/assets/153510531/95d5213e-245b-4a75-ae0f-c80c4f7549c9" width="1200px"/> -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector DBs-Pinecone%20%7C%20Chroma-430098?style=flat-square" />
 
+**Frontend & Backend**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 
+**Web3 & Blockchain**
+<br>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
 
-#  🎯 My Projects
+</div>
+
+---
+
+# 🎯 Featured Projects
 <br>
 
-## ✒️ What is HeroSwap?
-### HeroSwap allows virtually instant and anonymous swapping of any supported currency with no signups. This enables developers to onboard new users and liquidity to their cross-chain apps. It also allows everyday users to swap cross-chain to experience different blockchain ecosystems. Partners who embed HeroSwap earn 50% of all swapping fees.
-### 👑 Decentralized Exchanges(DEXs), Crypto Exchanges
-### 🔱 Chains : Multichain, Solana, Ethereum, Sui
+### 🌊 HeroSwap — Cross-Chain DEX
 
-<a href="https://heroswap.com/"><img src="https://github.com/srdev23/srdev23/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b" width="1200px" />
+Instant, anonymous swaps across chains with no signups. Enables developers to onboard users and liquidity to cross-chain apps, and lets users explore different blockchain ecosystems. Partners earn 50% of swapping fees.
 
-## ✒️ What is Solport?
-### In addition to user Auctioning, Rarity Filtering, and Discord/Telegram alerts for marketplace activity, Solport is an NFT marketplace built on the Solana blockchain that provides various features. Solport does not charge a listing fee or a refunding fee at present.
-### 👑 NFTMarketPlace 
-### 🔱 Chains : Solana
+| **Category** | **Chains** |
+|-------------|------------|
+| DEX / Crypto Exchanges | Multichain · Solana · Ethereum · Sui |
 
-<a href="https://solport.io/"><img src="https://github.com/srdev23/srdev23/assets/153510531/9c399017-ef50-431a-9589-950131289854" width="1200px" />
+<a href="https://heroswap.com/"><img src="https://github.com/srdev23/srdev23/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b" width="1200px" alt="HeroSwap" />
 
-# 📁  Repositories
+### 🎨 Solport — NFT Marketplace on Solana
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Cross-chain
+User auctioning, rarity filtering, and Discord/Telegram alerts for marketplace activity. Built on Solana with no listing or refunding fees.
 
-<a href="https://github.com/srdev23/Ollo_station">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Ollo_station&theme=vue-dark&description_lines_count=7" />
-</a>
-<a href="https://github.com/srdev23/Tusima_bridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Tusima_bridge&theme=vue-dark&description_lines_count=4" />
-</a>
-<a href="https://github.com/srdev23/Pigeon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Pigeon&theme=vue-dark&description_lines_count=4" />
-</a>
-<a href="https://github.com/srdev23/BSC_layer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=BSC_layer&theme=vue-dark&description_lines_count=4" />
-</a>
+| **Category** | **Chains** |
+|-------------|------------|
+| NFT Marketplace | Solana |
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> dApps
+<a href="https://solport.io/"><img src="https://github.com/srdev23/srdev23/assets/153510531/9c399017-ef50-431a-9589-950131289854" width="1200px" alt="Solport" />
 
-<a href="https://github.com/srdev23/Next_dappTemplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Next_dappTemplate&theme=vue-dark&description_lines_count=5" />
-</a>
-<a href="https://github.com/srdev23/CryptoCocks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=CryptoCocks&theme=vue-dark&description_lines_count=5" />
-</a>
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Go
+<div align="center">
 
-<a href="https://github.com/srdev23/Go_gonesis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Go_gonesis&theme=vue-dark&description_lines_count=5" />
-</a>
-<a href="https://github.com/srdev23/Go_Micro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Go_Micro&theme=vue-dark&description_lines_count=4" />
-</a>
+### 📊 GitHub Stats
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Rust
+<img src="https://github-readme-stats.vercel.app/api?username=srdev23&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" width="450" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdev23&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" width="350" />
 
-<a href="https://github.com/srdev23/AWS_auth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=AWS_auth&theme=vue-dark&description_lines_count=4" />
-</a>
-<a href="https://github.com/srdev23/Rust_bors">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Rust_bors&theme=vue-dark&description_lines_count=5" />
-</a>
+<!-- ### 🚀 Let's Connect
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Solidity
+*Open to collaborations on AI/ML projects, Web3 apps, and full stack builds*
 
-<a href="https://github.com/srdev23/Solidity_contracts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Solidity_contracts&theme=vue-dark&description_lines_count=5" />
-</a>
-<a href="https://github.com/srdev23/Contract_x509">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdev23&repo=Contract_x509&theme=vue-dark&description_lines_count=5" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com) -->
 
-
-
-
-
-
-
-<!--
-**srdev23/srdev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
