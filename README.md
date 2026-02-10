@@ -1,6 +1,6 @@
 # Hi there 👋
 <br>
-# <div align="center"> &nbsp; Frontend | Backend | Blockchain Developer &nbsp; </div>
+<div align="center"> &nbsp; # Software Engineer &nbsp; </div>
 <br>
 
 <!-- 
