@@ -79,12 +79,12 @@ User auctioning, rarity filtering, and Discord/Telegram alerts for marketplace a
 
 ---
 
-<div align="center">
+<!-- <div align="center"> -->
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=srdev23&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdev23&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" width="350" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=srdev23&theme=vue-dark&hide_border=true)](https://github.com/srdev23) -->
 
 <!-- ### 🚀 Let's Connect
 
@@ -94,4 +94,4 @@ User auctioning, rarity filtering, and Discord/Telegram alerts for marketplace a
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com) -->
 
-</div>
+<!-- </div> -->
