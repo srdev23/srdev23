@@ -1,11 +1,11 @@
-# Image sources
+# Profile assets
 
-These assets were downloaded from the projects' official websites on **2026-11-24**. The files are unmodified; the profile sets their display sizes in HTML. Local copies keep the README independent of changing asset URLs and third-party badge services.
+All images used by the profile are stored in this repository so the README does not depend on external image or badge services.
 
-| File | Official source | Use |
-| :--- | :--- | :--- |
-| [`bittensor-network.png`](./bittensor-network.png) | [Bittensor social preview image](https://www.bittensor.com/images/og_thumbs/default.png), referenced by [bittensor.com](https://www.bittensor.com/) | Network visual linking to Bittensor |
-| [`oro.png`](./oro.png) | [ORO Apple touch icon](https://oroagents.com/apple-icon.png), referenced by [oroagents.com](https://oroagents.com/) | Icon for the SN15 work section |
-| [`soma.png`](./soma.png) | [SOMA Apple touch icon](https://thesoma.ai/apple-icon.png), referenced by [thesoma.ai](https://thesoma.ai/) | Icon for the SN114 work section |
+| File | Source |
+| :--- | :--- |
+| `web3-header.svg` | Original vector artwork created for this profile. Uses system fonts and contains no scripts, animation, or external resources. |
+| `heroswap.png` | Unmodified screenshot from the [original profile upload](https://github.com/srdev23/srdev23/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b). |
+| `solport.png` | Unmodified screenshot from the [original profile upload](https://github.com/srdev23/srdev23/assets/153510531/9c399017-ef50-431a-9589-950131289854). |
 
-The names and marks belong to their respective owners. They identify the ecosystems discussed in this profile; the work described is independent development, not an official affiliation.
+The screenshots document earlier project interfaces; they are not current product previews. Product names and imagery belong to their respective owners.
